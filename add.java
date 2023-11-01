@@ -6,13 +6,10 @@ public class add {
         int sum=a+b;
         //System.out.println(sum);
         int diff=a-b;
-        int add=a+b;
         System.out.println(diff);
-        System.out.println(add);
     }
     
 }
 
-// int a b 
-//hlsc
+
 
